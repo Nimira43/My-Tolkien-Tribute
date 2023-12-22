@@ -15,7 +15,7 @@
     background: linear-gradient(
         rgba(0, 0, 0, 0.9),
         rgba(0, 0, 0, 0.8)),
-        url('./OIP.jpg') no-repeat center;
+        url('./warfare.jpg') no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -30,7 +30,7 @@
     font-size: 25px;
     background: linear-gradient(rgba(0, 0, 0, 0.9),
             rgba(0, 0, 0, 0.8)),
-        url('./R.jpg') no-repeat center;
+        url('./tolkien.jpg') no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
